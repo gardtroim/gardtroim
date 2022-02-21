@@ -1,9 +1,4 @@
-This is the personal Git of Gard Trøim. Most projects are private for personal use, but some are public to share personal projects with other users and interested. Thanks for looking! :)
+This is for the personal use of Gard Trøim. Most repositores are private for personal collaboration and version control, but some are public for me to share personal projects with other users and interested. Thanks for looking! :)
 
 📫 If you'd like to reach out to me in private, please send an email to gardtroim@gmail.com.
 If you'd want to reach out to me in my workplace, please contact gard.troim@unicus.com.
-
-<!---
-thefuryfox/thefuryfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
